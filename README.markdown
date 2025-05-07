@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/association-rules-apriori-fpgrowth.git
+   git clone https://github.com/wajason/association-rules-apriori-fpgrowth.git
    cd association-rules-apriori-fpgrowth
    ```
 
@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
    ```
 
 4. **Prepare the Dataset**
-   - Place the transaction dataset file (`browsing.txt`) in the `/home/wajason99/` directory or update the `file_path` variable in the code to match your local path.
+   - Place the transaction dataset file (`browsing.txt`) in the your directory or update the `file_path` variable in the code to match your local path.
    - The dataset should contain one transaction per line, with items separated by spaces.
 
 ## Usage
